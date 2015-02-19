@@ -27,5 +27,4 @@ There is a makefile for making the data generating side (requires libfann) and t
 which is a simple modification of an example file I found for creating and training nets.
 
 Eventually I was so exasperated with my nets (which could never net win... get it... ? ) that I resorted to
-probabilities. I made what amounts to a 1D summed area table to let me find any range of cards. That might come in
-handy in the future... It was just as (I mean almost exactly) successful as my best net.
+probabilities. I made what amounts to a 1D summed area table to let me find any range of cards. It was just as (I mean almost exactly) successful as my best net.
